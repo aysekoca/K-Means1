@@ -13,4 +13,4 @@ Amacı: Kodun amacı, müşteri verilerini analiz etmek ve benzer özelliklere s
 
 4.Ürün önerileri: Müşterilere benzer özelliklere veya tercihlere sahip diğer müşterilerin beğendiği ürünleri önermek.
 
-Kısacası, bu kod, müşteri segmentasyonu ve pazarlama stratejilerinin belirlenmesi gibi pazarlama analizi için kullanılan bir araç olarak kullanılabilir.
+Kısacası bu kod, müşteri segmentasyonu ve pazarlama stratejilerinin belirlenmesi gibi pazarlama analizi için kullanılan bir araç olarak kullanılabilir.
