@@ -1,5 +1,5 @@
 # K-Means1
-# K-MEANS ALGORİTMASI 
+# K-MEANS KÜMELEME ALGORİTMASI 
 # PROJENİN AMACI VE KULLANIMI 
  K-means algoritmasını kullanarak müşterileri belirli özelliklere dayalı olarak kümelere ayırmak için tasarlanmıştır
  
